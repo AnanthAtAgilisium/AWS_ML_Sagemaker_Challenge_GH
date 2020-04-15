@@ -8,6 +8,11 @@ Input files for curated model is located at: s3://ag-aws-ml-sagemaker-challenge/
 Output is currently being generated in the Jupyter notebook.
 
 ================================================================================================================================
+REFERENCE:
+Sergio Oramas, Luis Espinosa-Anke, Mohamed Sordo, Horacio Saggion, and Xavier Serra. 2016. ELMD : An Automatically Generated Entity Linking Gold Standard Dataset in the Music Domain. In In Proceedings of the 10th International Conference on Language Resources and Evaluation, LREC 2016.
+https://repositori.upf.edu/bitstream/handle/10230/27835/oramas_lrec16_elmd.pdf?sequence=1&isAllowed=y
+https://www.upf.edu/web/mtg/elmd
+================================================================================================================================
 
 ## Inspiration
 Music recommendation is hard and this solution attempts to make it better. There are various aspects to a person's musical tastes and preferences. Some are very adventurous while others prefer to stick to what they like and few others are influenced by what their friends and family are listening to. In order to cater to such a wide variety of tastes, it is important to consider many aspects before a ML system can be considered successful in recommending music. Some of the aspects that can be considered are: 
