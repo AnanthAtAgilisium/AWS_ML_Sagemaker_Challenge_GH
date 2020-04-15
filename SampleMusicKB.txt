@@ -1,0 +1,1443 @@
+{
+	0: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Album',
+				'label': '19',
+				'lastfm_url': 'http://www.last.fm/music/Adele/19'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Track',
+				'label': 'Chasing Pavements',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Chasing+Pavements'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Album',
+				'label': '21',
+				'lastfm_url': 'http://www.last.fm/music/Adele/21'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Track',
+				'label': 'Rolling in the Deep',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Rolling+in+the+Deep'
+			},
+			1: {
+				'category': 'Track',
+				'label': 'Someone Like You',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Someone+Like+You'
+			},
+			2: {
+				'category': 'Track',
+				'label': 'Set Fire to the Rain',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain'
+			}
+		},
+		9: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		10: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Leona Lewis',
+				'lastfm_url': 'http://www.last.fm/music/Leona+Lewis'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		14: {
+			0: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			}
+		},
+		15: {
+			0: {
+				'category': 'Label',
+				'label': 'Virgin Records',
+				'lastfm_url': 'http://www.last.fm/label/Virgin+Records'
+			}
+		},
+		16: {
+			0: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		17: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		18: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			}
+		},
+		19: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Track',
+				'label': 'Hometown Glory',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Hometown+Glory'
+			}
+		},
+		20: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		}
+	},
+	1: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			},
+			1: {
+				'category': 'Track',
+				'label': 'Closing Time',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/_/Closing+Time'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Dan Wilson',
+				'lastfm_url': 'http://www.last.fm/music/Dan+Wilson'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'John Munson',
+				'lastfm_url': 'http://www.last.fm/music/John+Munson'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'Jacob Slichter',
+				'lastfm_url': 'http://www.last.fm/music/Jacob+Slichter'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Artist',
+				'label': 'Trip Shakespeare',
+				'lastfm_url': 'http://www.last.fm/music/Trip+Shakespeare'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Dan Wilson',
+				'lastfm_url': 'http://www.last.fm/music/Dan+Wilson'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'John Munson',
+				'lastfm_url': 'http://www.last.fm/music/John+Munson'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Album',
+				'label': 'Pleasure',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/Pleasure'
+			},
+			1: {
+				'category': 'Album',
+				'label': 'Great Divide',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/Great+Divide'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			},
+			1: {
+				'category': 'Album',
+				'label': 'Feeling Strangely Fine',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/Feeling+Strangely+Fine'
+			},
+			2: {
+				'category': 'Track',
+				'label': 'Closing Time',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/_/Closing+Time'
+			}
+		},
+		6: {
+			0: {
+				'category': 'Track',
+				'label': 'Secret Smile',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/_/Secret+Smile'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Album',
+				'label': 'All About Chemistry',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/All+About+Chemistry'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Track',
+				'label': 'Chemistry',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/_/Chemistry'
+			}
+		},
+		9: {
+			0: {
+				'category': 'Track',
+				'label': 'Over My Head',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic/_/Over+My+Head'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			}
+		},
+		10: {
+			0: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Wings',
+				'lastfm_url': 'http://www.last.fm/music/Wings'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Paul McCartney',
+				'lastfm_url': 'http://www.last.fm/music/Paul+McCartney'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			}
+		},
+		14: {
+			0: {
+				'category': 'Artist',
+				'label': 'Dan Wilson',
+				'lastfm_url': 'http://www.last.fm/music/Dan+Wilson'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		}
+	},
+	2: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Fred Astaire',
+				'lastfm_url': 'http://www.last.fm/music/Fred+Astaire'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele Astaire',
+				'lastfm_url': 'http://www.last.fm/music/Adele+Astaire'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Artist',
+				'label': 'Gene Kelly',
+				'lastfm_url': 'http://www.last.fm/music/Gene+Kelly'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Ginger Rogers',
+				'lastfm_url': 'http://www.last.fm/music/Ginger+Rogers'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Artist',
+				'label': 'Cole Porter',
+				'lastfm_url': 'http://www.last.fm/music/Cole+Porter'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Irving Berlin',
+				'lastfm_url': 'http://www.last.fm/music/Irving+Berlin'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Jerome Kern',
+				'lastfm_url': 'http://www.last.fm/music/Jerome+Kern'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Johnny Mercer',
+				'lastfm_url': 'http://www.last.fm/music/Johnny+Mercer'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'George and Ira Gershwin',
+				'lastfm_url': 'http://www.last.fm/music/George+and+Ira+Gershwin'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'Fred Astaire',
+				'lastfm_url': 'http://www.last.fm/music/Fred+Astaire'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Ginger Rogers',
+				'lastfm_url': 'http://www.last.fm/music/Ginger+Rogers'
+			}
+		}
+	},
+	3: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Florence + the Machine',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Florence and The Machine',
+				'lastfm_url': 'http://www.last.fm/music/+noredirect/Florence+and+The+Machine'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Florence Welch',
+				'lastfm_url': 'http://www.last.fm/music/Florence+Welch'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Artist',
+				'label': 'Florence Welch',
+				'lastfm_url': 'http://www.last.fm/music/Florence+Welch'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Robert Ackroyd',
+				'lastfm_url': 'http://www.last.fm/music/Robert+Ackroyd'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Isabella Summers',
+				'lastfm_url': 'http://www.last.fm/music/Isabella+Summers'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Isa machine',
+				'lastfm_url': 'http://www.last.fm/music/Isa+machine'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'Mark Saunders',
+				'lastfm_url': 'http://www.last.fm/music/Mark+Saunders'
+			},
+			5: {
+				'category': 'Artist',
+				'label': 'Rusty Bradshaw',
+				'lastfm_url': 'http://www.last.fm/music/Rusty+Bradshaw'
+			},
+			6: {
+				'category': 'Artist',
+				'label': 'Sam White',
+				'lastfm_url': 'http://www.last.fm/music/Sam+White'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Artist',
+				'label': 'Florence Welch',
+				'lastfm_url': 'http://www.last.fm/music/Florence+Welch'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'Florence + the Machine',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Artist',
+				'label': 'The White Stripes',
+				'lastfm_url': 'http://www.last.fm/music/The+White+Stripes'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Kate Bush',
+				'lastfm_url': 'http://www.last.fm/music/Kate+Bush'
+			}
+		},
+		6: {
+			0: {
+				'category': 'Artist',
+				'label': 'Florence + the Machine',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Album',
+				'label': 'Lungs',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine/Lungs'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Florence + the Machine',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		9: {
+			0: {
+				'category': 'Album',
+				'label': 'Lungs',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine/Lungs'
+			},
+			1: {
+				'category': 'Label',
+				'label': 'Universal',
+				'lastfm_url': 'http://www.last.fm/label/Universal'
+			},
+			2: {
+				'category': 'Track',
+				'label': 'Rabbit Heart -LRB- Raise It Up -RRB-',
+				'lastfm_url': 'http://www.last.fm/music/Florence+%252B+the+Machine/_/Rabbit+Heart+\\-LRB-Raise+It+Up\\'
+			}
+		}
+	},
+	4: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Bird',
+				'lastfm_url': 'http://www.last.fm/music/Bird'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Artist',
+				'label': 'Kitayama Yuki',
+				'lastfm_url': 'http://www.last.fm/music/Kitayama+Yuki'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Artist',
+				'label': 'Janie Price',
+				'lastfm_url': 'http://www.last.fm/music/Janie+Price'
+			}
+		},
+		10: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele Emmas',
+				'lastfm_url': 'http://www.last.fm/music/Adele+Emmas'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Sian Williams',
+				'lastfm_url': 'http://www.last.fm/music/Sian+Williams'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Album',
+				'label': 'Shadows',
+				'lastfm_url': 'http://www.last.fm/music/Bird/Shadows'
+			},
+			1: {
+				'category': 'Label',
+				'label': 'Jack To Phono',
+				'lastfm_url': 'http://www.last.fm/label/Jack+To+Phono'
+			},
+			2: {
+				'category': 'Album',
+				'label': 'My Fear And Me',
+				'lastfm_url': 'http://www.last.fm/music/Bird/My+Fear+And+Me'
+			},
+			3: {
+				'category': 'Label',
+				'label': 'Jack To Phono',
+				'lastfm_url': 'http://www.last.fm/label/Jack+To+Phono'
+			}
+		},
+		12: {
+			0: {
+				'category': 'Album',
+				'label': 'Ophelia',
+				'lastfm_url': 'http://www.last.fm/music/Bird/Ophelia'
+			},
+			1: {
+				'category': 'Label',
+				'label': 'Jack To Phono',
+				'lastfm_url': 'http://www.last.fm/label/Jack+To+Phono'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Bill Ryder - Jones',
+				'lastfm_url': 'http://www.last.fm/music/Bill+Ryder-Jones'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'The Coral',
+				'lastfm_url': 'http://www.last.fm/music/The+Coral'
+			}
+		},
+		14: {
+			0: {
+				'category': 'Artist',
+				'label': 'Bird',
+				'lastfm_url': 'http://www.last.fm/music/Bird'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Bird',
+				'lastfm_url': 'http://www.last.fm/music/Bird'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Bird',
+				'lastfm_url': 'http://www.last.fm/music/Bird'
+			}
+		},
+		15: {
+			0: {
+				'category': 'Label',
+				'label': 'Bella Union',
+				'lastfm_url': 'http://www.last.fm/label/Bella+Union'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Simon Raymonde',
+				'lastfm_url': 'http://www.last.fm/music/Simon+Raymonde'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Cocteau Twins',
+				'lastfm_url': 'http://www.last.fm/music/Cocteau+Twins'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'BBC Radio Merseyside',
+				'lastfm_url': 'http://www.last.fm/music/BBC+Radio+Merseyside'
+			}
+		},
+		16: {
+			0: {
+				'category': 'Artist',
+				'label': 'Channel 4',
+				'lastfm_url': 'http://www.last.fm/music/Channel+4'
+			}
+		},
+		17: {
+			0: {
+				'category': 'Artist',
+				'label': 'Led Zeppelin',
+				'lastfm_url': 'http://www.last.fm/music/Led+Zeppelin'
+			},
+			1: {
+				'category': 'Track',
+				'label': 'The Rain Song',
+				'lastfm_url': 'http://www.last.fm/music/Bird/_/The+Rain+Song'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Lauren Laverne',
+				'lastfm_url': 'http://www.last.fm/music/Lauren+Laverne'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Janice Long',
+				'lastfm_url': 'http://www.last.fm/music/Janice+Long'
+			}
+		}
+	},
+	5: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'James Chance',
+				'lastfm_url': 'http://www.last.fm/music/James+Chance'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Artist',
+				'label': 'Defunkt',
+				'lastfm_url': 'http://www.last.fm/music/Defunkt'
+			}
+		}
+	},
+	6: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Jack Peñate',
+				'lastfm_url': 'http://www.last.fm/music/Jack+Peñate'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Artist',
+				'label': 'Lily Allen',
+				'lastfm_url': 'http://www.last.fm/music/Lily+Allen'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Jamie T',
+				'lastfm_url': 'http://www.last.fm/music/Jamie+T'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Kate Nash',
+				'lastfm_url': 'http://www.last.fm/music/Kate+Nash'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Artist',
+				'label': "Jack 's Basement",
+				'lastfm_url': 'http://www.last.fm/music/Jack%27s+Basement'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'The Maccabees',
+				'lastfm_url': 'http://www.last.fm/music/The+Maccabees'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Jack Peñate',
+				'lastfm_url': 'http://www.last.fm/music/Jack+Peñate'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Artist',
+				'label': 'Prince',
+				'lastfm_url': 'http://www.last.fm/music/Prince'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Jeff Buckley',
+				'lastfm_url': 'http://www.last.fm/music/Jeff+Buckley'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Shuggie Otis',
+				'lastfm_url': 'http://www.last.fm/music/Shuggie+Otis'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Todd Rundgren',
+				'lastfm_url': 'http://www.last.fm/music/Todd+Rundgren'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'JJ Cale',
+				'lastfm_url': 'http://www.last.fm/music/+noredirect/JJ+Cale'
+			},
+			5: {
+				'category': 'Artist',
+				'label': 'Harry Nilsson',
+				'lastfm_url': 'http://www.last.fm/music/Harry+Nilsson'
+			},
+			6: {
+				'category': 'Artist',
+				'label': 'Herbie Hancock',
+				'lastfm_url': 'http://www.last.fm/music/Herbie+Hancock'
+			}
+		},
+		10: {
+			0: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			},
+			1: {
+				'category': 'Album',
+				'label': 'Matinée',
+				'lastfm_url': 'http://www.last.fm/music/Jack+Pe%C3%B1ate/Matin%C3%A9e'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Album',
+				'label': 'Everything Is New',
+				'lastfm_url': 'http://www.last.fm/music/Jack+Pe%C3%B1ate/Everything+Is+New'
+			}
+		}
+	},
+	7: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Sam Cooke',
+				'lastfm_url': 'http://www.last.fm/music/Sam+Cooke'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Georgie Fame',
+				'lastfm_url': 'http://www.last.fm/music/Georgie+Fame'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Jackie Wilson',
+				'lastfm_url': 'http://www.last.fm/music/Jackie+Wilson'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Artist',
+				'label': "Howlin ' Wilf",
+				'lastfm_url': 'http://www.last.fm/music/Howlin%27+Wilf'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Album',
+				'label': 'Believe What I Say',
+				'lastfm_url': 'http://www.last.fm/music/James+Hunter/Believe+What+I+Say'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Doris Troy',
+				'lastfm_url': 'http://www.last.fm/music/Doris+Troy'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Van Morrison',
+				'lastfm_url': 'http://www.last.fm/music/Van+Morrison'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Album',
+				'label': 'Kick It Around',
+				'lastfm_url': 'http://www.last.fm/music/James+Hunter/Kick+It+Around'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Album',
+				'label': 'People Gon na Talk',
+				'lastfm_url': 'http://www.last.fm/music/James+Hunter/People+Gonna+Talk'
+			}
+		},
+		6: {
+			0: {
+				'category': 'Album',
+				'label': 'The Hard Way',
+				'lastfm_url': 'http://www.last.fm/music/James+Hunter/The+Hard+Way'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Allen Toussaint',
+				'lastfm_url': 'http://www.last.fm/music/Allen+Toussaint'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Artist',
+				'label': 'Amy Winehouse',
+				'lastfm_url': 'http://www.last.fm/music/Amy+Winehouse'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Duffy',
+				'lastfm_url': 'http://www.last.fm/music/Duffy'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Artist',
+				'label': 'James Hunter',
+				'lastfm_url': 'http://www.last.fm/music/James+Hunter'
+			}
+		}
+	},
+	8: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Dan Wilson',
+				'lastfm_url': 'http://www.last.fm/music/Dan+Wilson'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Artist',
+				'label': 'Trip Shakespeare',
+				'lastfm_url': 'http://www.last.fm/music/Trip+Shakespeare'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Album',
+				'label': '21',
+				'lastfm_url': 'http://www.last.fm/music/Adele/21'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Artist',
+				'label': 'Dixie Chicks',
+				'lastfm_url': 'http://www.last.fm/music/Dixie+Chicks'
+			},
+			1: {
+				'category': 'Album',
+				'label': 'Taking The Long Way',
+				'lastfm_url': 'http://www.last.fm/music/Dixie+Chicks/Taking+The+Long+Way'
+			}
+		},
+		6: {
+			0: {
+				'category': 'Artist',
+				'label': 'Dixie Chicks',
+				'lastfm_url': 'http://www.last.fm/music/Dixie+Chicks'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Artist',
+				'label': 'Semisonic',
+				'lastfm_url': 'http://www.last.fm/music/Semisonic'
+			}
+		}
+	},
+	9: {
+		1: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele Bethel',
+				'lastfm_url': 'http://www.last.fm/music/Adele+Bethel'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Scott Paterson',
+				'lastfm_url': 'http://www.last.fm/music/Scott+Paterson'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'David Gow',
+				'lastfm_url': 'http://www.last.fm/music/David+Gow'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Album',
+				'label': 'The Repulsion Box',
+				'lastfm_url': 'http://www.last.fm/music/Sons+and+Daughters/The+Repulsion+Box'
+			},
+			1: {
+				'category': 'Album',
+				'label': 'This Gift',
+				'lastfm_url': 'http://www.last.fm/music/Sons+and+Daughters/This+Gift'
+			},
+			2: {
+				'category': 'Album',
+				'label': 'Mirror Mirror',
+				'lastfm_url': 'http://www.last.fm/music/Sons+and+Daughters/Mirror+Mirror'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Album',
+				'label': 'Mirror Mirror',
+				'lastfm_url': 'http://www.last.fm/music/Sons+and+Daughters/Mirror+Mirror'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Album',
+				'label': 'Mirror Mirror',
+				'lastfm_url': 'http://www.last.fm/music/Sons+and+Daughters/Mirror+Mirror'
+			}
+		}
+	},
+	10: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		1: {
+			0: {
+				'category': 'Album',
+				'label': '19',
+				'lastfm_url': 'http://www.last.fm/music/Adele/19'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Track',
+				'label': 'Chasing Pavements',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Chasing+Pavements'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Album',
+				'label': '21',
+				'lastfm_url': 'http://www.last.fm/music/Adele/21'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Track',
+				'label': 'Rolling in the Deep',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Rolling+in+the+Deep'
+			},
+			1: {
+				'category': 'Track',
+				'label': 'Someone Like You',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Someone+Like+You'
+			},
+			2: {
+				'category': 'Track',
+				'label': 'Set Fire to the Rain',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Set+Fire+to+the+Rain'
+			}
+		},
+		9: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		10: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Leona Lewis',
+				'lastfm_url': 'http://www.last.fm/music/Leona+Lewis'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		14: {
+			0: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			}
+		},
+		15: {
+			0: {
+				'category': 'Label',
+				'label': 'Virgin Records',
+				'lastfm_url': 'http://www.last.fm/label/Virgin+Records'
+			}
+		},
+		16: {
+			0: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		17: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		},
+		18: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Label',
+				'label': 'XL Recordings',
+				'lastfm_url': 'http://www.last.fm/label/XL+Recordings'
+			}
+		},
+		19: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Track',
+				'label': 'Hometown Glory',
+				'lastfm_url': 'http://www.last.fm/music/Adele/_/Hometown+Glory'
+			}
+		},
+		20: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			}
+		}
+	},
+	11: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Robert Forster',
+				'lastfm_url': 'http://www.last.fm/music/Robert+Forster'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Grant McLennan',
+				'lastfm_url': 'http://www.last.fm/music/Grant+McLennan'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'The Go-Betweens',
+				'lastfm_url': 'http://www.last.fm/music/The+Go-Betweens'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Artist',
+				'label': 'Custard',
+				'lastfm_url': 'http://www.last.fm/music/Custard'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Glenn Thompson',
+				'lastfm_url': 'http://www.last.fm/music/Glenn+Thompson'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Adele Pickvance',
+				'lastfm_url': 'http://www.last.fm/music/Adele+Pickvance'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Artist',
+				'label': 'Grant McLennan',
+				'lastfm_url': 'http://www.last.fm/music/Grant+McLennan'
+			}
+		},
+		8: {
+			0: {
+				'category': 'Artist',
+				'label': 'Grant McLennan',
+				'lastfm_url': 'http://www.last.fm/music/Grant+McLennan'
+			}
+		}
+	},
+	12: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Various Production',
+				'lastfm_url': 'http://www.last.fm/music/Various+Production'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Artist',
+				'label': 'Various Production',
+				'lastfm_url': 'http://www.last.fm/music/Various+Production'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'Various Production',
+				'lastfm_url': 'http://www.last.fm/music/Various+Production'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Artist',
+				'label': 'Various Production',
+				'lastfm_url': 'http://www.last.fm/music/Various+Production'
+			}
+		},
+		9: {
+			0: {
+				'category': 'Artist',
+				'label': 'Sia',
+				'lastfm_url': 'http://www.last.fm/music/Sia'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Brandy',
+				'lastfm_url': 'http://www.last.fm/music/Brandy'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Cat Power',
+				'lastfm_url': 'http://www.last.fm/music/Cat+Power'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Emma Pollock',
+				'lastfm_url': 'http://www.last.fm/music/Emma+Pollock'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'Ian Brown',
+				'lastfm_url': 'http://www.last.fm/music/Ian+Brown'
+			},
+			5: {
+				'category': 'Artist',
+				'label': 'Missy Elliott',
+				'lastfm_url': 'http://www.last.fm/music/Missy+Elliott'
+			},
+			6: {
+				'category': 'Artist',
+				'label': 'Dave Cloud & The Gospel Of Power',
+				'lastfm_url': 'http://www.last.fm/music/Dave+Cloud+&+The+Gospel+Of+Power'
+			},
+			7: {
+				'category': 'Artist',
+				'label': 'Gerry Mitchell & Little Sparta',
+				'lastfm_url': 'http://www.last.fm/music/Gerry+Mitchell+&+Little+Sparta'
+			},
+			8: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			9: {
+				'category': 'Artist',
+				'label': 'Sugababes',
+				'lastfm_url': 'http://www.last.fm/music/Sugababes'
+			},
+			10: {
+				'category': 'Artist',
+				'label': 'Brandy',
+				'lastfm_url': 'http://www.last.fm/music/Brandy'
+			},
+			11: {
+				'category': 'Artist',
+				'label': 'Puerto Muerto',
+				'lastfm_url': 'http://www.last.fm/music/Puerto+Muerto'
+			},
+			12: {
+				'category': 'Artist',
+				'label': 'M.I.A.',
+				'lastfm_url': 'http://www.last.fm/music/M.I.A.'
+			}
+		}
+	},
+	13: {
+		0: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		},
+		2: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		},
+		3: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		},
+		4: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		},
+		5: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Digital Mystikz',
+				'lastfm_url': 'http://www.last.fm/music/Digital+Mystikz'
+			}
+		},
+		6: {
+			0: {
+				'category': 'Artist',
+				'label': 'Iration Steppas',
+				'lastfm_url': 'http://www.last.fm/music/Iration+Steppas'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			},
+			2: {
+				'category': 'Label',
+				'label': 'Sub Soldiers',
+				'lastfm_url': 'http://www.last.fm/label/Sub+Soldiers'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Caspa',
+				'lastfm_url': 'http://www.last.fm/music/Caspa'
+			}
+		},
+		7: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		},
+		9: {
+			0: {
+				'category': 'Track',
+				'label': 'Cockney Thug',
+				'lastfm_url': 'http://www.last.fm/music/Rusko/_/Cockney+Thug'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Pete Tong',
+				'lastfm_url': 'http://www.last.fm/music/Pete+Tong'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Switch',
+				'lastfm_url': 'http://www.last.fm/music/Switch'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Diplo',
+				'lastfm_url': 'http://www.last.fm/music/Diplo'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'Santogold',
+				'lastfm_url': 'http://www.last.fm/music/+noredirect/Santogold'
+			},
+			5: {
+				'category': 'Artist',
+				'label': 'Buraka Som Sistema',
+				'lastfm_url': 'http://www.last.fm/music/Buraka+Som+Sistema'
+			},
+			6: {
+				'category': 'Artist',
+				'label': 'Diplo',
+				'lastfm_url': 'http://www.last.fm/music/Diplo'
+			},
+			7: {
+				'category': 'Artist',
+				'label': 'Caspa',
+				'lastfm_url': 'http://www.last.fm/music/Caspa'
+			},
+			8: {
+				'category': 'Artist',
+				'label': 'Drop the Lime',
+				'lastfm_url': 'http://www.last.fm/music/Drop+the+Lime'
+			},
+			9: {
+				'category': 'Artist',
+				'label': 'Scratch Perverts',
+				'lastfm_url': 'http://www.last.fm/music/Scratch+Perverts'
+			}
+		},
+		10: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'Switch',
+				'lastfm_url': 'http://www.last.fm/music/Switch'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Diplo',
+				'lastfm_url': 'http://www.last.fm/music/Diplo'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Yo Majesty',
+				'lastfm_url': 'http://www.last.fm/music/Yo+Majesty'
+			},
+			4: {
+				'category': 'Artist',
+				'label': 'Wiley',
+				'lastfm_url': 'http://www.last.fm/music/Wiley'
+			}
+		},
+		11: {
+			0: {
+				'category': 'Artist',
+				'label': 'Adele',
+				'lastfm_url': 'http://www.last.fm/music/Adele'
+			},
+			1: {
+				'category': 'Artist',
+				'label': 'A-Trak',
+				'lastfm_url': 'http://www.last.fm/music/A-Trak'
+			},
+			2: {
+				'category': 'Artist',
+				'label': 'Kid Sister',
+				'lastfm_url': 'http://www.last.fm/music/Kid+Sister'
+			},
+			3: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		},
+		13: {
+			0: {
+				'category': 'Artist',
+				'label': 'Rusko',
+				'lastfm_url': 'http://www.last.fm/music/Rusko'
+			}
+		}
+	}
+}
